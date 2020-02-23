@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">口算游戏</string>
+    <string name="answerCorrectMessage">回答正确!继续</string>
+    <string name="back">返回</string>
+    <string name="begin_message">开始游戏</string>
+    <string name="bestscore">最好成绩:%d</string>
+    <string name="dialog_negative_message">否</string>
+    <string name="dialog_positive_message">是</string>
+    <string name="enter">确定</string>
+    <string name="enterAnswerMessage">请输入您的答案</string>
+    <string name="lose_message">你输了</string>
+    <string name="quit_dialog_message">确定要退出吗？</string>
+    <string name="readyAnswer">准备回答</string>
+    <string name="score">得分：%d</string>
+    <string name="score_message_lose">你的得分：%d</string>
+    <string name="score_message_win">最好成绩：%d</string>
+    <string name="win_message">你赢了！</string>
+</resources>

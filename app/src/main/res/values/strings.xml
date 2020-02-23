@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CalculateGame</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="bestscore">bestscore:%d</string>
+    <string name="begin_message">PLAY GAME</string>
+    <string name="score">Score:%d</string>
+    <string name="equals" translatable="false">=</string>
+
+    <string name="one" translatable="false">1</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+    <string name="four" translatable="false">4</string>
+    <string name="five" translatable="false">5</string>
+    <string name="six" translatable="false">6</string>
+    <string name="seven" translatable="false">7</string>
+    <string name="eight" translatable="false">8</string>
+    <string name="nine" translatable="false">9</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="back">back</string>
+    <string name="enter">enter</string>
+    <string name="win_message">YOU WIN!</string>
+    <string name="score_message_win">BEST SCORE:%d</string>
+    <string name="score_message_lose">YOUR SCORE:%d</string>
+    <string name="lose_message">YOU LOSE</string>
+    <string name="enterAnswerMessage">Please Enter Your Answer</string>
+    <string name="answerCorrectMessage">Correct!Please Go On</string>
+    <string name="readyAnswer">ReadyAnswer</string>
+    <string name="quit_dialog_message">Are You Sure To Exit?</string>
+    <string name="dialog_positive_message">YES</string>
+    <string name="dialog_negative_message">NO</string>
+</resources>
